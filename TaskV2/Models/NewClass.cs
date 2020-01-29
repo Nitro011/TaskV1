@@ -7,5 +7,17 @@ namespace TaskV2.Models
 {
     public class NewClass
     {
+
+
+        public NewClass()
+        {
+
+        }
+
+        public string NewMethod() 
+        {
+            return "";
+        
+        }
     }
 }
